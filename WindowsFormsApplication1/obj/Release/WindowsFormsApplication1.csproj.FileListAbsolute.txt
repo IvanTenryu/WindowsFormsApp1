@@ -1,0 +1,15 @@
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.add_new_user.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.add_product_name.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.dealer_info.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.generate_bill1.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.generate_purchase_report.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.login.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MDIParent1.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.purchase_master.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.purchase_report.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.sales.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.unit.resources
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Ivan Valencia\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
